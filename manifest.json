@@ -1,6 +1,6 @@
 {
   "name": "Craigslist Image Preview Extension",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "manifest_version": 2,
   "description": "Load image previews for Craigslist postings.",
   "icons": {
@@ -19,6 +19,5 @@
       ],
       "js": ["jquery.js", "clpreview.js"]
     }
-  ],
-  "icognito": "split"
+  ]
 }
